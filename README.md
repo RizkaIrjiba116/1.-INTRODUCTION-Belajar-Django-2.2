@@ -1,1 +1,1 @@
-# 1.-INTRODUCTION-Belajar-Django-2.2
+# Belajar Django 2.2
